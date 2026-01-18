@@ -56,7 +56,7 @@ Predict whether a client will subscribe to a **term deposit**, helping financial
 
  1. **Data Preprocessing**
 
- - Handled categorical encoding
+ <t>- Handled categorical encoding
 
  - Normalized numeric features
 
