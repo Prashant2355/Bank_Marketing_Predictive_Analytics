@@ -140,12 +140,12 @@ This model can help businesses:
 
 2. Install dependencies
 
-- pip install pandas numpy seaborn matplotlib scikit-learn xgboost
+    - pip install pandas numpy seaborn matplotlib scikit-learn xgboost
 
 
 3. Open the notebook
 
-- jupyter notebook
+    - jupyter notebook
 
 -----------------------------------------------------------------------------------
 
