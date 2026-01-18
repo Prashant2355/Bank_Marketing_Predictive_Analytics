@@ -56,7 +56,7 @@ Predict whether a client will subscribe to a **term deposit**, helping financial
 
  1. **Data Preprocessing**
 
- <t>- Handled categorical encoding
+ - <t> Handled categorical encoding
 
  - Normalized numeric features
 
@@ -70,7 +70,7 @@ Predict whether a client will subscribe to a **term deposit**, helping financial
 
 3. **Model Building**
 
-Trained and compared the following algorithms:
+<t> Trained and compared the following algorithms:
 
  - Logistic Regression
 
