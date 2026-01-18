@@ -56,50 +56,51 @@ Predict whether a client will subscribe to a **term deposit**, helping financial
 
  1. **Data Preprocessing**
 
-    - Handled categorical encoding
+      - Handled categorical encoding
 
- - Normalized numeric features
+      - Normalized numeric features
 
- - Feature selection for best performance
+      - Feature selection for best performance
 
 2. **Exploratory Data Analysis (EDA)**
 
- - Analyzed patterns between customer demographics and subscriptions
+      - Analyzed patterns between customer demographics and subscriptions
 
- - Identified key drivers like call duration and previous campaign success
+      - Identified key drivers like call duration and previous campaign success
 
 3. **Model Building**
 
      Trained and compared the following algorithms:
 
- - Logistic Regression
+      - Logistic Regression
 
- - Decision Trees
+      - Decision Trees
 
- - Naive Bayes
+      - Naive Bayes
 
- - Support Vector Machine
+      - Support Vector Machine
 
- - K-Nearest Neighbors
+      - K-Nearest Neighbors
 
- - Random Forest
+      - Random Forest
 
- - Gradient Boosting
+      - Gradient Boosting
 
- - Extreme Gradient Boosting (XGBoost)
+      - Extreme Gradient Boosting (XGBoost)
 
 4. **Model Evaluation**
-Evaluated using:
 
- - Accuracy
+     Evaluated using:
 
- - Precision & Recall
+      - Accuracy
 
- - F1-Score
+      - Precision & Recall
 
- - Sensitivity & Specificity
+      - F1-Score
 
- - ROC-AUC
+      - Sensitivity & Specificity
+
+      - ROC-AUC
 
 -------------------------------------------------------------------------------
 
@@ -109,11 +110,11 @@ The **XGBoost** model achieved the **best** overall performance, providing the m
 
 This model can help businesses:
 
-- Reduce marketing costs
+    - Reduce marketing costs
 
-- Improve campaign targeting
+    - Improve campaign targeting
 
-- Increase conversion rates
+    - Increase conversion rates
 
 ---------------------------------------------------------------------------------
 
