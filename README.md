@@ -56,11 +56,11 @@ Predict whether a client will subscribe to a **term deposit**, helping financial
 
 ## 🧠 Approach & Methodology
 
-** 1. Data Preprocessing**
+ 1. **Data Preprocessing**
 
--- **Handled categorical encoding**
+- - **Handled categorical encoding**
 
--- **Normalized numeric features**
+- - **Normalized numeric features**
 
 - Feature selection for best performance
 
