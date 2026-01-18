@@ -20,8 +20,6 @@ y → Whether the client subscribed to a term deposit (**"yes"** or **"no"**)
 
 ## 🗂 Dataset Files
 
-- **bank-full.csv** → Complete dataset with **45,211** records
-
 - **bank.csv** → Random sample (10%) of the dataset used for model training & testing
 
 --------------------------------------------------------------------------
