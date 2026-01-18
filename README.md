@@ -27,21 +27,22 @@ y → Whether the client subscribed to a term deposit (**"yes"** or **"no"**)
 --------------------------------------------------------------------------
 
 ## 📋 Key Features
-Feature	Description
-Age	Customer’s age
-Job	Type of job
-Marital	Marital status
-Education	Education level
-Default	Credit default status
-Balance	Yearly account balance
-Housing	Housing loan status
-Loan	Personal loan status
-Contact	Contact communication type
-Campaign	Number of campaign contacts
-Pdays	Days passed since last contact
-Previous	Number of previous contacts
-Poutcome	Previous campaign outcome
-Duration	Call duration (strong predictive feature)
+| **Feature**   | **Description**                                      |
+| ------------- | ---------------------------------------------------- |
+| **Age**       | Customer’s age                                       |
+| **Job**       | Type of job                                          |
+| **Marital**   | Marital status                                       |
+| **Education** | Education level                                      |
+| **Default**   | Credit default status                                |
+| **Balance**   | Yearly account balance                               |
+| **Housing**   | Housing loan status                                  |
+| **Loan**      | Personal loan status                                 |
+| **Contact**   | Contact communication type                           |
+| **Campaign**  | Number of contacts performed in the current campaign |
+| **Pdays**     | Days passed since the client was last contacted      |
+| **Previous**  | Number of previous campaign contacts                 |
+| **Poutcome**  | Outcome of the previous marketing campaign           |
+| **Duration**  | Call duration (strong predictive feature)            |
 
 There are **no** missing values in the dataset.
 
@@ -55,11 +56,11 @@ Predict whether a client will subscribe to a **term deposit**, helping financial
 
 ## 🧠 Approach & Methodology
 
-1. Data Preprocessing
+** 1. Data Preprocessing**
 
-- Handled categorical encoding
+-- **Handled categorical encoding**
 
-- Normalized numeric features
+-- **Normalized numeric features**
 
 - Feature selection for best performance
 
